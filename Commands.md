@@ -352,18 +352,7 @@ Here’s a grouped view:
 | Archive | `tar` |
 | Power | `shutdown`, `reboot` |
 
-* * *
 
-Would you like me to:
-
-* Test you with a few questions now?
-* Or go deeper into one group, like **file handling** or **networking**?
-
-Let me know!
-
-Okay give me next setup of commands
-
-Perfect! Since you've understood the basic commands and want to move forward, let’s now dive into the **next level** of useful Ubuntu commands, grouped by category — with simple explanations and examples again.
 
 * * *
 
