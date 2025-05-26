@@ -68,33 +68,13 @@ Here are some folders you'll often hear about:
 
 📝 Quick Recap
 --------------
-
 * Ubuntu stores files using folders.
 * Everything starts from `/` (root).
 * `/home/yourname` is your personal space.
 * Other folders like `/etc` or `/bin` are for the system.
 
 * * *
-
-✅ Your Turn – Quick Questions
------------------------------
-
-Try to answer these:
-
-1.  What is a **file**?
-2.  What is the **/home** folder used for?
-3.  What does the **/** (root) folder mean?
-4.  What folder contains the settings/configuration files?
-5.  What does **/tmp** store?
-
-Let me know your answers, and I’ll help correct or explain if needed. Once you're confident, we can move to the next part: **file paths and basic commands to see files/folders**.
-
-Explain me about different file system and mount
-
-Awesome! You're doing great 👍
-Now let’s learn two new things:
-
-* * *
+<br><br><br><br><br><br>
 
 📁 Part 1: **Different File Systems**
 =====================================
@@ -207,26 +187,7 @@ This means:
 * You **unmount** to safely remove it.
 
 * * *
-
-✅ Your Turn – Quick Questions
------------------------------
-
-Try answering:
-
-1.  What is a file system? Name two types.
-2.  What is mounting?
-3.  What happens if a device is not mounted?
-4.  What file system does Ubuntu commonly use?
-5.  What does unmounting do?
-
-Reply with your answers, and I’ll check them. Then we’ll move on to:
-👉 **Using terminal commands to check disks and mounts (like `lsblk`, `df`, `mount`)**.
-
-LVM
-
-Great! Now you're asking about **LVM**, which is an important and powerful concept in Ubuntu and Linux storage. Let me explain it in a very simple way.
-
-* * *
+<br><br><br><br><br><br><br>
 
 🔶 What is LVM?
 ===============
@@ -328,26 +289,7 @@ With LVM:
 
 Now if later you get a third disk, you can add it to `vg_data` and create more LVs!
 
-* * *
-
-✅ Your Turn – Quick Questions
-=============================
-
-1.  What does LVM stand for?
-2.  Why is LVM useful?
-3.  What are the 3 main parts of LVM?
-4.  Can you add more disks to an existing LVM setup?
-5.  What is the difference between a VG and an LV?
-
-Try answering and I’ll guide you further.
-Next, we can see **how to check and use LVM from Ubuntu terminal** (using commands like `lvdisplay`, `vgdisplay`, `pvcreate`, etc.).
-
-list me all the extensive commands of ubuntu with explanation in simple english for a complete beginner and example.
-
-Great! You’re motivated, and that’s the most important thing. 😊
-Let’s go step by step.
-
-Here is a list of **essential and commonly used Ubuntu commands** — explained in **simple English**, with examples. These are beginner-friendly and cover file handling, system info, package management, networking, and more.
+<br><br><br><br><br><br>
 
 * * *
 
@@ -894,35 +836,9 @@ Now you can type `cls` instead of `clear`.
 
     uptime
 
-
 * * *
 
-✅ Let’s Test You (Mini Quiz)
-============================
-
-Try answering:
-
-1.  What command would you use to search for `.log` files in your home folder?
-2.  How do you check if a service like `ssh` is running?
-3.  What is the difference between `wget` and `curl`?
-4.  How can you give someone else ownership of a file?
-5.  What does `chmod 755 script.sh` mean?
-
-* * *
-
-Once you’re ready, we can go to:
-
-👉 **Setup & Use of Users, Groups, and Permissions**
-👉 **Disk & Partition Management**
-👉 **Process Management & Background Jobs**
-
-Just let me know what you want to do next 😊
-
-Explain about port
-
-Great! Let's learn about **ports** in a very simple way — like you’re just starting out. 😊
-
-* * *
+<br><br><br><br><br><br>
 
 🧠 What is a **Port**?
 ----------------------
@@ -1033,26 +949,7 @@ Let’s say:
 That means when someone types your IP in their browser, the browser connects to your computer’s **port 80**, and sees the website you’re hosting.
 
 * * *
-
-🧪 Quick Questions for You
---------------------------
-
-1.  What is a port in simple terms?
-2.  What does **port 22** usually do?
-3.  How can you check which ports are open on your Ubuntu machine?
-4.  Why is **port 443** considered safer than port 80?
-
-* * *
-
-When you're ready, we can learn: 👉 How to open/close ports with **UFW (Ubuntu Firewall)**
-👉 How to check what process is using a specific port
-👉 Or move to **SSH, networking, or web server setup**
-
-Let me know 😄
-
-Explain about networking
-
-Awesome! Let's now understand **networking in Ubuntu** — in very simple English. 😊
+<br><br><br><br><br><br>
 
 * * *
 
@@ -1478,54 +1375,8 @@ Here are the main ones:
 * Kali Linux used by **ethical hackers**
 
 * * *
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
-✅ Mini Quiz (for you!):
------------------------
-
-1.  What is Linux?
-2.  What is a distribution (distro)?
-3.  Name 3 popular Linux distros.
-4.  Which Linux distro is beginner-friendly?
-5.  Which one is mostly used in enterprises?
-
-* * *
-
-Let me know your answers! And then we’ll move to the next topic: **Linux folder structure & file types**.
-
-I have topics for interviews, I want you to give definitions for each of them under two line and any sub questions that can be asked from them and answers also should be under two lines. Commands also should be listed related with that. Give answers for each of them and give a explanation for me to understand. Definitiona should be professional to answer in Interview
-
-Perfect — this is an excellent way to prepare for interviews. I’ll follow your format exactly:
-
-* **Definition (Max 2 lines)** – for interviews
-* **Sub-questions** – and answers (each under 2 lines)
-* **Commands** – with one-line descriptions
-* **Explanation for You** – in simple language
-
-* * *
-
-Please provide the **list of topics** you want to cover.
-Once I have your topic list, I’ll start answering them in the structured format you requested.
-
-For example, if you want to cover topics like:
-
-1.  LVM
-2.  SSH
-3.  Crontab
-4.  Systemd
-5.  Permissions
-6.  Networking
-7.  Package Management
-8.  Services (systemctl)
-9.  Firewalls (ufw, firewalld)
-10. Logs
-
-Let me know what your list looks like. You can paste 5–20 topics, and we’ll go through them one-by-one.
-
-Sticky bit OSI model Linux file permssion Private IP address range types DNS SSH
-
-Excellent topics! Let’s go one-by-one, in the **exact format** you asked:
-
-* * *
 
 🔐 1\. Sticky Bit
 -----------------
