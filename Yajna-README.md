@@ -3,7 +3,7 @@
 Hi, I’m Velmurugan currently staying in Bengaluru.<br><br>
 I completed my B.Sc. in Mathematics from Madurai Kamaraj University in 2020.
 <br><br>
-After completing my degree in 2020, I worked in the banking sector for 4 years after the COVID lockdown.<br><br>
+After completing my degree in 2020, I worked in the banking sector for 4 years after the COVID pandemic.<br><br>
 But I’ve always had a strong interest and passion for Linux and open-source technologies.
 <br><br>
 Being enthusiastic about it, I explored a few Linux distros on my own and later joined a Linux training at Besant Technologies, Bengaluru from September last year to build my skills further.
